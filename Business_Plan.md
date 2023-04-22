@@ -12,27 +12,27 @@ The core values of JADynamics are security and data privacy. Frequently, new tec
 
 We are a team of four Computer Science undergraduate students from California State University East Bay. We each bring unique skills and experience to the team which will enable us to take JADynamics from concept to reality. 
 
-<img src="https://user-images.githubusercontent.com/111711595/233807584-4f22693a-b121-4325-bccb-04b2042ddcaa.png" width=20% height=20%>
-
 ### Anthony Garcia – Lead Developer and Marketing Officer
+
+<img src="https://user-images.githubusercontent.com/111711595/233807584-4f22693a-b121-4325-bccb-04b2042ddcaa.png" width=20% height=20%>
 
 Having years of experience in corporate environments, Anthony is responsible for overseeing the team of developers and ensuring that software projects are completed on time and meet the company’s quality standards as well as developing marketing materials. In his spare time, Anthony enjoys the outdoors weather its surfing at the beach, hicking on trails or snowboarding in the winter. Most of all he enjoys spending time with his family.
 
-<img src="https://user-images.githubusercontent.com/111711595/233807644-c2752e9f-8c0f-4751-9878-04821160a136.png" width=20% height=20%>
-
 ### Diana Campos – Software Engineer and Computer Vision Specialist
+
+<img src="https://user-images.githubusercontent.com/111711595/233807644-c2752e9f-8c0f-4751-9878-04821160a136.png" width=20% height=20%>
 
 Diana Campos is a Software Engineer and computer vision expert for JADynamics. Having spent years independently studying the topics, she is interested in creating programs and has a passion for understanding the ways in which computers see the world. In her free time, she's a fitness enthusiast and enjoys #hobby.
 
-<img src="https://user-images.githubusercontent.com/111711595/233810381-f7c6e395-be40-4284-9a1c-6e95d2a8a384.png" width=20% height=20%>
-
 ### Jacob Smith – Embedded Engineer, Product Designer
+
+<img src="https://user-images.githubusercontent.com/111711595/233810381-f7c6e395-be40-4284-9a1c-6e95d2a8a384.png" width=20% height=20%>
 
 After being given his first microcontroller in middle school, Jacob discovered he had a passion for the hardware side of things from an early age and has kept with it ever since. His expertise in embedded development, CAD, and machining will be put to work ensuring that the physical side of our devices achive top notch reliability without sacraficing aesthetics. Outside of tech, he spends much of his spare time either at his local hackerspace, underneath a car, or engaged in a variety of board sports.
 
-<img src="https://user-images.githubusercontent.com/111711595/233810478-19504598-cb83-4c67-8bd0-91235a6ed02b.png" width=20% height=20%>
-
 ### Jonathan Jaber – Cybersecurity
+
+<img src="https://user-images.githubusercontent.com/111711595/233810478-19504598-cb83-4c67-8bd0-91235a6ed02b.png" width=20% height=20%>
 
 Jonathan has a passion for puzzles and mathematics and is a wealth of knowledge about cybersecurity. He's in charge of ensuring our user's data remains theirs and only theirs. In addition, he's an avid gamer and travel enthusiast. 
 
