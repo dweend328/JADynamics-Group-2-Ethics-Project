@@ -1,7 +1,7 @@
 # JADynamics — A New Paradigm in Building Security
 ## No More Keys: Unlock with a Smile!
 
-JADynamics aims to be a household name in building access control by producing biometric authenticated locks. More than just a lock company, we want to provide secure, convenient, and reliable access to homes and businesses — completely hands free. Utilizing recent developments in facial recognition technology, our devices will make it possible to identify authorized users in a fraction of a second with more accuracy than even traditional fingerprint-based biometric systems. 
+JADynamics aims to be a household name in building access control by producing biometric authenticated locks. More than just a lock company, we want to provide secure, convenient, and reliable access to homes and businesses—completely hands free. Utilizing recent developments in facial recognition technology, our devices will make it possible to identify authorized users in a fraction of a second with more accuracy than even traditional fingerprint-based biometric systems. 
 
 ## Security-Focused, Privacy Conscious
 
