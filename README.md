@@ -5,7 +5,7 @@ JADynamics aims to be a household name in building access control by producing b
 
 ## Security-Focused, Privacy Conscious
 
-Frequently, new technological conveniences come with the added downsides of a loss of privacy as well as the risks associated with data insecurity. It is our mission to ensure that clients can trust our devices both in their homes and places of work. The systems we are developing are fully self contained, your data never leaves the premises. With JADynamics, you can be confident that your data remains your data.
+Frequently, new technological conveniences come with the added downsides of a loss of privacy as well as the risks associated with data insecurity. It is our mission to ensure that clients can trust our devices both in their homes and places of work. The systems we are developing are fully self contained, your data never leaves the premises unless remote access is desired. With JADynamics, you can be confident that your data remains your data.
 
 ## Technology that Recognizes the Real You
 
