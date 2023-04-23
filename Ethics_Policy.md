@@ -1,6 +1,12 @@
+# JADynamics Ethics Policy
+
+## Welcome to JADynamics!
+
 Welcome to JADynamics, the very first facial recognition doorbell! Everyone here wants you to be a part of the JADynamics family.
 
-At JADynamics, we strongly believe in our founding principle “convenient safety”. 
+At JADynamics, we strongly believe in our founding principle “convenient safety”.
+
+## Ethics Policy
 
 Here below are the objectives for our app-controlled doorbell and added security:
 
@@ -18,7 +24,7 @@ Banned: Needless to say, this is reserved for guests who are banned from the pre
 
 3. JADynamics aims to lower the crime rate in neighborhoods of lower class by using the camera feature, and the app that comes along with it.
 
-
+## What We Don't Support
 
 While JADynamics adheres to the principles highlighted above, the following are principles that JADynamics does not support:
 
@@ -28,11 +34,11 @@ Hacking the user interface of any kind. This is strictly prohibited and will not
 
 The collection of individual data. Most companies are known to do this, but we ethically cannot afford to do this, as this can hurt users.
 
-
+## Board Recruitment
 
 With JADynamics as just a startup, we are seeking talented individuals to build this company from the ground up. 
 
-Satya Nadella, (M.S., M.B.A.)
+### Satya Nadella - CEO of Microsoft (M.S., M.B.A.)
 
 <img src="https://user-images.githubusercontent.com/111559647/233813128-a8db29b2-8242-4b96-955d-8a85aa9e05f5.jpg" width=20% height=20%>
 
@@ -42,7 +48,7 @@ Satya Nadella is an Indian-American businessman, who is currently the Chief Exec
 
 Microsoft is a top 5 technology company. Given the guidance of a long-term employee of Microsoft, and the CEO, we need someone to oversee all the operations. As someone who helped the company grow annually, we feel that Nadella would be the best option to help make JADynamics grow.
 
-2. Jack Black, American Actor
+### Jack Black - American Actor
 
 <img src="https://user-images.githubusercontent.com/111559647/233813136-ca57e0bd-71fb-4aab-bc1c-dd28881ea50a.jpg" width=20% height=20%>
 
@@ -50,7 +56,7 @@ Jack Black is an American actor from Santa Monica, California. He went to UCLA b
 
 Jack Black would be a great candidate for marketing, as we need to appeal to a large age group who knows about him. We chose to sponsor Jack Black for advertisements and marketing so the general public knows about this startup.
 
-3. Bill Gates, co-founder of Microsoft
+### Bill Gates - Cofounder of Microsoft
 
 <img src="https://user-images.githubusercontent.com/111559647/233813138-e881d05d-6218-48ad-8d13-2e5c8cc6f072.jpg" width=20% height=20%>
 
