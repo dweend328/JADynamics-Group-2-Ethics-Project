@@ -16,3 +16,7 @@ Traditional locks and access control systems rely on thier users keeping track k
 [Business Plan](https://github.com/dweend328/JADynamics/blob/main/Business_Plan.md)
 
 [Ethics Policy](https://github.com/dweend328/JADynamics/blob/main/Ethics%20Policy.md)
+
+[Cultural Policy]()
+
+
