@@ -34,7 +34,9 @@ With JADynamics as just a startup, we are seeking talented individuals to build 
 
 Satya Nadella, (M.S., M.B.A.)
 
-![MS-Exec-Nadella-Satya-2017-08-31-22_(cropped)](https://user-images.githubusercontent.com/111559647/233813128-a8db29b2-8242-4b96-955d-8a85aa9e05f5.jpg)
+<img src="https://user-images.githubusercontent.com/111559647/233813128-a8db29b2-8242-4b96-955d-8a85aa9e05f5.jpg" width=20% height=20%>
+
+
 
 Satya Nadella is an Indian-American businessman, who is currently the Chief Executive Officer (CEO) of Microsoft, one of the biggest technology companies in the world. He started off as the senior vice-president of research and development (R&D) for the Online Services Division and vice-president of the Microsoft Business Division. He did this for 22 years before getting promoted to CEO. After becoming CEO, the stock for Microsoft nearly tripled (citation).
 
@@ -42,15 +44,15 @@ Microsoft is a top 5 technology company. Given the guidance of a long-term emplo
 
 2. Jack Black, American Actor
 
-![71804_v9_bb](https://user-images.githubusercontent.com/111559647/233813136-ca57e0bd-71fb-4aab-bc1c-dd28881ea50a.jpg)
+<img src="https://user-images.githubusercontent.com/111559647/233813136-ca57e0bd-71fb-4aab-bc1c-dd28881ea50a.jpg" width=20% height=20%>
 
 Jack Black is an American actor from Santa Monica, California. He went to UCLA but dropped to pursue a career in entertainment. He now plays in movies such as Kung Fu Panda, the newest Juamnji movies, and the most recent Super Mario Bros Movie.
 
 Jack Black would be a great candidate for marketing, as we need to appeal to a large age group who knows about him. We chose to sponsor Jack Black for advertisements and marketing so the general public knows about this startup.
 
-3. Bill Gates, cofounder of Microsoft
+3. Bill Gates, co-founder of Microsoft
 
-![GA311881_Bill_Gates](https://user-images.githubusercontent.com/111559647/233813138-e881d05d-6218-48ad-8d13-2e5c8cc6f072.jpg)
+<img src="https://user-images.githubusercontent.com/111559647/233813138-e881d05d-6218-48ad-8d13-2e5c8cc6f072.jpg" width=20% height=20%>
 
 William “Bill” Gates, is a philanthropist, entrepreneur and investor. He is widely regarded as one of the most successful businessmen of all time. He co-founded Microsoft along with his childhood best friend in 1975. He was CEO for 25 years until stepping down in January of 2000. Although he is no longer affiliated with Microsoft, he has pursued many philanthropic endeavors.
 
