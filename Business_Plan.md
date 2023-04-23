@@ -59,11 +59,11 @@ As we grow and become a recognized name in building access control we will begin
 
 JADynamics is in a unique position to capitalize on a number of external opportunities. 
 
-Co-marketing: We can partner with other companies in the security and biometric space to expand our market presence. For example, we can partner with a lock manufacturer to create a co-branded product that utilizes our software to provide a secure and convenient solution to home access. 
+### Co-marketing: 
+We can partner with other companies in the security and biometric space to expand our market presence. For example, we can partner with a lock manufacturer to create a co-branded product that utilizes our software to provide a secure and convenient solution to home access. 
 
-Venture Capital Funding: We can look to venture capital firms that have helped grow security technologies in the past to support our growth, such as Accel and Softbank. This will enable us to expand our customer base, increase our marketing reach, and develop new products. 
+### Venture Capital Funding: 
+We can look to venture capital firms that have helped grow security technologies in the past to support our growth, such as Accel and Softbank. This will enable us to expand our customer base, increase our marketing reach, and develop new products. 
 
-Conferences: We can attend conferences such as the International Biometric Industry Association (IBIA) to stay up to date on the latest developments in the industry and establish relationships with potential partners. 
-
-
-
+### Conferences: 
+We can attend conferences such as the International Biometric Industry Association (IBIA) to stay up to date on the latest developments in the industry and establish relationships with potential partners. 
