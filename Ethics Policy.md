@@ -8,7 +8,6 @@ We aspire to create a secure, state of the art doorbell that recognizes faces, t
 
 Residents: This is reserved for all the residents of a house. Anyone in that category who walks in is automatically granted access.
 
-
 Family: This is reserved for close family members, and those guests will always be welcome.
 
 Guests: This is reserved for friends and guests at the homeowner’s discretion.
@@ -29,9 +28,12 @@ Hacking the user interface of any kind. This is strictly prohibited and will not
 
 The collection of individual data. Most companies are known to do this, but we ethically cannot afford to do this, as this can hurt users.
 
+
+
 With JADynamics as just a startup, we are seeking talented individuals to build this company from the ground up. 
 
 Satya Nadella, (M.S., M.B.A.)
+
 
 Satya Nadella is an Indian-American businessman, who is currently the Chief Executive Officer (CEO) of Microsoft, one of the biggest technology companies in the world. He started off as the senior vice-president of research and development (R&D) for the Online Services Division and vice-president of the Microsoft Business Division. He did this for 22 years before getting promoted to CEO. After becoming CEO, the stock for Microsoft nearly tripled (citation).
 
