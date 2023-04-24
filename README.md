@@ -19,4 +19,4 @@ Traditional locks and access control systems rely on thier users keeping track k
 
 [Cultural Policy]()
 
-[Experimentation and Priorities]()
+[Experimentation and Priorities](https://github.com/dweend328/JADynamics/blob/main/Experimentation_and_Priorities.md)
