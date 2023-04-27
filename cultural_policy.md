@@ -1,4 +1,4 @@
-# cultural policy 
+# Cultural Policy 
 
 ## Core values
 
