@@ -18,7 +18,7 @@ Family: This is reserved for close family members, and those guests will always 
 
 Guests: This is reserved for friends and guests at the homeowner’s discretion.
 
-Banned: Needless to say, this is reserved for guests who are banned from the premises. Anyone who enters
+Banned: Needless to say, this is reserved for guests who are banned from the premises. Anyone on that list who attempts to enter will prompt the user to notify local police or neighborhood security.
 
 2. We aspire to add security to your place of residence to ensure that extra layer of comfort and safety. This is exactly what the product aims to provide.
 
