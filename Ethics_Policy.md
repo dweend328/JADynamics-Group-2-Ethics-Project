@@ -44,7 +44,7 @@ With JADynamics as just a startup, we are seeking talented individuals to build 
 
 
 
-Satya Nadella is an Indian-American businessman, who is currently the Chief Executive Officer (CEO) of Microsoft, one of the biggest technology companies in the world. He started off as the senior vice-president of research and development (R&D) for the Online Services Division and vice-president of the Microsoft Business Division. He did this for 22 years before getting promoted to CEO. After becoming CEO, the stock for Microsoft nearly tripled (citation).
+Satya Nadella is an Indian-American businessman, who is currently the Chief Executive Officer (CEO) of Microsoft, one of the biggest technology companies in the world. He started off as the senior vice-president of research and development (R&D) for the Online Services Division and vice-president of the Microsoft Business Division. He did this for 22 years before getting promoted to CEO. After becoming CEO, the stock for Microsoft nearly tripled (1).
 
 Microsoft is a top 5 technology company. Given the guidance of a long-term employee of Microsoft, and the CEO, we need someone to oversee all the operations. As someone who helped the company grow annually, we feel that Nadella would be the best option to help make JADynamics grow.
 
@@ -63,3 +63,6 @@ Jack Black would be a great candidate for marketing, as we need to appeal to a l
 William “Bill” Gates, is a philanthropist, entrepreneur and investor. He is widely regarded as one of the most successful businessmen of all time. He co-founded Microsoft along with his childhood best friend in 1975. He was CEO for 25 years until stepping down in January of 2000. Although he is no longer affiliated with Microsoft, he has pursued many philanthropic endeavors.
 
 We could hire an abundance of workers who have experience with software development, but we can only hire so many of those. In order to run a successful start-up, we need someone to help with our finances and accounting. As the cofounder of Microsoft, Bill Gates has enough experience to give us the proper guidance to become the company we strive to become.
+
+Cited:
+1) https://en.wikipedia.org/wiki/Satya_Nadella
