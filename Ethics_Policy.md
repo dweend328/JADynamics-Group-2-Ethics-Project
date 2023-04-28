@@ -10,7 +10,7 @@ At JADynamics, we strongly believe in our founding principle “convenient safet
 
 Here below are the objectives for our app-controlled doorbell and added security:
 
-We aspire to create a secure, state of the art doorbell that recognizes faces, to the discretion of the homeowner. This will give the homeowner full-control of who’s allowed in the home. In our app, we have categorized four columns which give the following access and certain privileges:
+1. We aspire to create a secure, state of the art doorbell that recognizes faces, to the discretion of the homeowner. This will give the homeowner full-control of who’s allowed in the home. In our app, we have categorized four columns which give the following access and certain privileges:
 
 Residents: This is reserved for all the residents of a house. Anyone in that category who walks in is automatically granted access.
 
