@@ -28,11 +28,11 @@ Banned: Needless to say, this is reserved for guests who are banned from the pre
 
 While JADynamics adheres to the principles highlighted above, the following are principles that JADynamics does not support:
 
-The use of tampering the internal face camera to break into homes. With the all-new technology designed with these cameras, we are able to tell the difference between a photograph, and a real human.
+1. The use of tampering the internal face camera to break into homes. With the all-new technology designed with these cameras, we are able to tell the difference between a photograph, and a real human.
 
-Hacking the user interface of any kind. This is strictly prohibited and will not be tolerated. Our doorbell is designed to ensure an extra layer of safety, and modifying it will affect the product.
+2. Hacking the user interface of any kind. This is strictly prohibited and will not be tolerated. Our doorbell is designed to ensure an extra layer of safety, and modifying it will affect the product.
 
-The collection of individual data. Most companies are known to do this, but we ethically cannot afford to do this, as this can hurt users.
+3. The collection of individual data. Most companies are known to do this, but we ethically cannot afford to do this, as this can hurt users.
 
 ## Board Recruitment
 
