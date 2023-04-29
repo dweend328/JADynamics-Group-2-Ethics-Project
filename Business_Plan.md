@@ -28,7 +28,7 @@ Diana Campos is a Software Engineer and computer vision expert for JADynamics. H
 
 <img src="https://user-images.githubusercontent.com/111711595/233810381-f7c6e395-be40-4284-9a1c-6e95d2a8a384.png" width=20% height=20%>
 
-After being given his first microcontroller in middle school, Jacob discovered he had a passion for the hardware side of things from an early age and has kept with it ever since. His expertise in embedded development, CAD, and machining will be put to work ensuring that the physical side of our devices achive top notch reliability without sacraficing aesthetics. Outside of tech, he spends much of his spare time either at his local hackerspace, underneath a car, or engaged in a variety of board sports.
+After being given his first microcontroller in middle school, Jacob discovered he had a passion for the hardware side of things from an early age and has kept with it ever since. His expertise in embedded development, CAD, and machining will be put to work ensuring that the physical side of our devices achive top notch reliability without sacraficing aesthetics. 
 
 ### Jonathan Jaber – Cybersecurity
 
