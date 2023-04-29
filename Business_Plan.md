@@ -16,7 +16,7 @@ We are a team of four Computer Science undergraduate students from California St
 
 <img src="https://user-images.githubusercontent.com/111711595/233807584-4f22693a-b121-4325-bccb-04b2042ddcaa.png" width=20% height=20%>
 
-Having years of experience in corporate environments, Anthony is responsible for overseeing the team of developers and ensuring that software projects are completed on time and meet the company’s quality standards as well as developing marketing materials. In his spare time, Anthony enjoys the outdoors weather its surfing at the beach, hicking on trails or snowboarding in the winter. Most of all he enjoys spending time with his family.
+Having years of experience in corporate environments, Anthony is responsible for overseeing the team of developers and ensuring that software projects are completed on time and meet the company’s quality standards as well as developing marketing materials. In his spare time, Anthony enjoys the outdoors whether its surfing at the beach, hiking on trails or snowboarding in the winter. Most of all he enjoys spending time with his family.
 
 ### Diana Campos – Software Engineer and Computer Vision Specialist
 
