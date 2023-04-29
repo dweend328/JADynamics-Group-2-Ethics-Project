@@ -22,7 +22,7 @@ Having years of experience in corporate environments, Anthony is responsible for
 
 <img src="https://user-images.githubusercontent.com/111711595/233807644-c2752e9f-8c0f-4751-9878-04821160a136.png" width=20% height=20%>
 
-Diana Campos is a Software Engineer and computer vision expert for JADynamics. Having spent years independently studying the topics, she is interested in creating programs and has a passion for understanding the ways in which computers see the world. In her free time, she's..... < add something
+Diana Campos is a Software Engineer and computer vision expert for JADynamics. Having spent years independently studying the topics, she is interested in creating programs and has a passion for understanding the ways in which computers see the world. 
 
 ### Jacob Smith – Embedded Engineer, Product Designer
 
